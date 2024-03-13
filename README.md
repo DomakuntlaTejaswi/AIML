@@ -8,4 +8,7 @@ Lab-04:[Implement Linear Regression using Baston Housing Data](https://github.co
 
 Lab-05:[Implement Logistic Regression using Titanic Ship Passengers Dataset.](https://github.com/DomakuntlaTejaswi/AIML/blob/main/lab_05.ipynb)
 
+Lab-06:[Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset](https://github.com/DomakuntlaTejaswi/AIML/blob/main/Lab_06.ipynb)
+
+
 

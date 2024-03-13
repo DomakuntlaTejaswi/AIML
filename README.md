@@ -6,3 +6,6 @@ Lab-03:[IMPLEMENT AI GAME STRATEGY USING MINMAX AND ALPHA BETA SEARCH ALGORITHM]
 
 Lab-04:[Implement Linear Regression using Baston Housing Data](https://github.com/DomakuntlaTejaswi/AIML/blob/main/lab_04.ipynb)
 
+Lab-05:[Implement Logistic Regression using Titanic Ship Passengers Dataset.](https://github.com/DomakuntlaTejaswi/AIML/blob/main/lab_05.ipynb)
+
+

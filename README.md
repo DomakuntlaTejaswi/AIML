@@ -12,7 +12,7 @@ Lab-06:[Implement K-Nearest Neighbor Classification using Classified Manufacturi
 
 Lab-07:[Implement Support Vector Machine using Breast Cancer Data](https://github.com/DomakuntlaTejaswi/AIML/blob/main/Lab_07.ipynb)
 
-Lab-08:[Implement Decision Tree Classifier using Lending Club Data]()
+Lab-08:[Implement Decision Tree Classifier using Lending Club Data](https://github.com/DomakuntlaTejaswi/AIML/blob/main/lab_08.ipynb)
 
 
 

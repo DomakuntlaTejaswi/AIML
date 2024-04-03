@@ -14,6 +14,9 @@ Lab-07:[Implement Support Vector Machine using Breast Cancer Data](https://githu
 
 Lab-08:[Implement Decision Tree Classifier using Lending Club Data](https://github.com/DomakuntlaTejaswi/AIML/blob/main/lab_08.ipynb)
 
+Lab-09:[Implement Random Forest Ensemble Classifier using Lending Club Data](https://github.com/DomakuntlaTejaswi/AIML/blob/main/Lab_09.ipynb)
+
+
 
 
 

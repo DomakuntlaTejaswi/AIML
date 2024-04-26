@@ -16,6 +16,9 @@ Lab-08:[Implement Decision Tree Classifier using Lending Club Data](https://gith
 
 Lab-09:[Implement Random Forest Ensemble Classifier using Lending Club Data](https://github.com/DomakuntlaTejaswi/AIML/blob/main/Lab_09.ipynb)
 
+Lab-10:[Implement K-Means Clustering using Iris Data](https://github.com/DomakuntlaTejaswi/AIML/blob/main/lab_10_ipynb.ipynb)
+
+
 
 
 
